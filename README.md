@@ -1,2 +1,2 @@
 # express_json_rpc_router_example
-example code for medium article
+example code for  article
